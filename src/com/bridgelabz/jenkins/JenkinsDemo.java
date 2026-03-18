@@ -5,5 +5,6 @@ public class JenkinsDemo {
 
         System.out.println("Hello world..i am learning jenkins");
         System.out.println("Hello world .............i am testing jenkins");
+        System.out.println("woow jenkins working perfectly...");
     }
 }
